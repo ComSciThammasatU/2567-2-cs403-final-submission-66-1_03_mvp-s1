@@ -2,6 +2,7 @@
 **<ins>Note</ins>: Students must update this `README.md` file to be an installation manual or a README file for their own CS403 projects.**
 
 **รหัสโครงงาน:** 66-1_03_mvp-s1
+
 **ชื่อโครงงาน (ไทย):** โมบายแอปพลิเคชันการจัดการการขายและการสต็อกสินค้า
 
 **Project Title (Eng):** MOBILE APPLICATION FOR SALES AND INVENTORY MANAGEMENT
