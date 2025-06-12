@@ -1,17 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/w8H8oomW)
 **<ins>Note</ins>: Students must update this `README.md` file to be an installation manual or a README file for their own CS403 projects.**
 
-**รหัสโครงงาน:** ระบุรหัสโครงงานที่นี่ เช่น 66-2_01_ssr-s2
+**รหัสโครงงาน:** 66-1_03_mvp-s1
+**ชื่อโครงงาน (ไทย):** โมบายแอปพลิเคชันการจัดการการขายและการสต็อกสินค้า
 
-**ชื่อโครงงาน (ไทย):** ระบุชื่อโครงงานภาษาไทยที่นี่ เช่น ระบบสั่งอาหารผ่านรหัสคิวอาร์โค้ด
+**Project Title (Eng):** MOBILE APPLICATION FOR SALES AND INVENTORY MANAGEMENT
 
-**Project Title (Eng):** ระบุชื่อโครงงานภาษาอังกฤษซึ่งเขียนด้วยตัวอักษรภาษาอังกฤษตัวพิมพ์ใหญ่ทั้งหมดที่นี่ เช่น QR CODE ORDERRING 
+**อาจารย์ที่ปรึกษาโครงงาน:** ผู้ช่วยศาสตราจารย์ ดร.เสาวลักษณ์ วรรธนาภา 
 
-**อาจารย์ที่ปรึกษาโครงงาน:** ระบุชื่ออาจารย์ที่ปรึกษาโครงงานที่นี่ 
+**ผู้จัดทำโครงงาน:** 
+1. นางสาว อรณัส นุชธิสาร  6209650412  aranut.nuc@dome.tu.ac.th
 
-**ผู้จัดทำโครงงาน:** (โปรดเขียนข้อมูลผู้จัดทำโครงงานตามฟอร์แมตดังแสดงในตัวอย่างด้านล่าง)
-1. นายธรรม รักการดี  6409610010  tham.rak@dome.tu.ac.th
-2. <ถ้ามี>
    
 Manual / Instructions for your projects starts here !
 # Topic 1
