@@ -13,7 +13,7 @@
 1. นางสาว อรณัส นุชธิสาร  6209650412  aranut.nuc@dome.tu.ac.th
 
    
-Manual / Instructions for your projects starts here !
+
 # โครงสร้างไฟล์ของระบบ
 ```
 UdomProject
@@ -51,5 +51,9 @@ UdomProject
                     sellHT.js
                     showTime.jsx
 ```
-# Topic 2 
+# Tech Stack
+   **React Native**
+   **Node.js**
+   **express.js**
+   **Database:** Microsoft SQL Server (MSSQL)
 # Topic 3
