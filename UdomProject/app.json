@@ -4,11 +4,11 @@
     "slug": "UdomPOS",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon/android/res/mipmap-xxhdpi/ic_launcher_background.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/icon/android/res/mipmap-xxhdpi/ic_launcher_background.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
