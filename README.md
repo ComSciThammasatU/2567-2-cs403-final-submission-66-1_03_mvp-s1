@@ -61,10 +61,19 @@ UdomProject
  4.  **Database:** Microsoft SQL Server (MSSQL)
    
 # ความต้องการ
-   **Node.js**
+   ผู้ใช้งานจำเป็นต้องติดตั้ง ก่อนในการใช้งาน 
+
+   **Node.js**  
+
+      ใช้สำหรับรันคำสั่งใช้งาน server
    
    **Microsoft SQL Server Management Studio**
+      ใช้สำหรับจัดการ DataBase
    
    **Visual Studio Code**
    
+      ใช้สำหรับจัดการ Code
+   
    **Expo** 
+   
+      ใช้สำหรับ ทดลองรันโปรแกรม ไม่จำเป็นหากติดตั้ง .APK
