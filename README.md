@@ -81,13 +81,51 @@ UdomProject
    
    5.**Expo** 
    
-   ใช้สำหรับ ทดลองรันโปรแกรม ไม่จำเป็นหากติดตั้ง .APK
+   ใช้สำหรับ ทดลองรันโปรแกรมไม่จำเป็น หากใช้ .apk
+
+   6.**Android Studio**(ไม่จำเป็น)
+
+   ใช้ในการ run emulator
       
 # ขั้นตอนการติดตั้ง
    1. สร้างโฟลเดอร์เพื่อ ใช้ในการ clone git
    2. เปิด CommandPrompt ในโฟลเดอร์ที่เราสร้าง
-   3. ใช้คำสั่ง git clone <URL>
+   3. ใช้คำสั่ง git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-66-1_03_mvp-s1.git
    4. ใช้คำสั่ง CD เข้าไปใน Folder UdomProject
    5. ใช้คำสั่ง npm install หรือ yarn install
    6. ติดตั้ง expo cli (หากยังไม่มี) npm install -g expo-cli
+
+      ## ติดตั้งและใช้งาน DataBase
+      ในโมบายแอปนี้ ได้ใช้ cloudflare สร้าง vpn เพื่อความสะดวกในการติดต่อกันระหว่างclient และ server หากต้องการใช้ database ของท่านเองจะต้องทำการแก้ไข URL และ port ใน API
+
+         1. เปิด Microsoft SQL Server Management Studio จากนั้นกด connect
+         2. คลิกความที่ Databases และเลือก Restore database
+         3. เลือกไฟล์ udomdb.bak และกด ok
+         4. จากนั้นเลือก security และคลิกขวาที่ user กด new user
+         5. กรอกข้อมูล
+      เมื่อทำการเพิ่ม user แล้วจะต้องไปแก้ไขข้อมูลที่ server.js
+         ```
+         const config = { server: "<ชื่อ server>",
+         authentication: {  type: 'default',
+         options: {
+         userName: "<username ที่สร้าง>",
+         password: "<password ที่สร้าง>"
+          }
+         }
+         ```
+         เมื่อทำการแก้ไขเสร็จแล้ว ใช้คำสั่ง node server.js จาก
+
+      ## ติดตั้ง
+         ### หากท่านใช้ expo ในการรัน
+      เปิด emulator หรือ เตรียม tablet android ของท่านที่ทำการติดตั้ง expo
+         1.ใช้คำสั่ง npx yarn start
+         2.หากท่านใช้ emulator ให้กด a / ใช้ Tablet android ให้สแกน QR code
+         3.เสร็จสิ้น
+         ### หากท่านติดตั้ง .apk
+      ติดตั้งและใช้งานได้ตามปกติ
+
+# การใช้งาน
+
+   การบันทึกการขาย เราจะต้องเลือก 
+         
 
