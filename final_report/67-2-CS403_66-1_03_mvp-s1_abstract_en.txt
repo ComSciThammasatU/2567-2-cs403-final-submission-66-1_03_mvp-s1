@@ -1,0 +1,30 @@
+﻿
+หัวข้อโครงงานพิเศษ	โมบายแอปพลิเคชันการจัดการการขายและการสต็อกสินค้า
+Thesis Title	Mobile application for sales and inventory Management
+
+
+ ABSTRACT
+
+	Nowadays, technology has an important role in business. Increasing competition between modern businesses and traditional retail businesses Udomchok khaKhao Shop is a traditional, family-run retail store. have simple management and Inventory management is not as good as it should be. Including the problem of unequal selling prices for each customer, in order to develop and increase efficiency in competition and trade, the adoption of technology is important.
+	From the above, the project creator has the idea of creating mobile application of sales and inventory management to help manage inventory and debt management. Including summarizing accounts in order to develop current sales even further in the future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
