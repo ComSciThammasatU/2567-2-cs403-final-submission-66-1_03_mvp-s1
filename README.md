@@ -52,12 +52,12 @@ UdomProject
                     showTime.jsx
 ```
 # Tech Stack
-   **React Native**
+ 1.  **React Native**
    
-   **Node.js**
+ 2.  **Node.js**
    
-   **express.js**
+ 3.  **express.js**
    
-   **Database:** Microsoft SQL Server (MSSQL)
+ 4.  **Database:** Microsoft SQL Server (MSSQL)
    
 # Topic 3
