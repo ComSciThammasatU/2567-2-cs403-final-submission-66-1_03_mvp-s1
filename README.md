@@ -53,7 +53,11 @@ UdomProject
 ```
 # Tech Stack
    **React Native**
+   
    **Node.js**
+   
    **express.js**
+   
    **Database:** Microsoft SQL Server (MSSQL)
+   
 # Topic 3
