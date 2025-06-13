@@ -60,4 +60,8 @@ UdomProject
    
  4.  **Database:** Microsoft SQL Server (MSSQL)
    
-# Topic 3
+# ความต้องการ
+   **Node.js**
+   **Microsoft SQL Server Management Studio**
+   **Visual Studio Code**
+   **Expo** 
