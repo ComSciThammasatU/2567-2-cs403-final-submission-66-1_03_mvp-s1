@@ -87,4 +87,7 @@ UdomProject
    1. สร้างโฟลเดอร์เพื่อ ใช้ในการ clone git
    2. เปิด CommandPrompt ในโฟลเดอร์ที่เราสร้าง
    3. ใช้คำสั่ง git clone <URL>
-   
+   4. ใช้คำสั่ง CD เข้าไปใน Folder UdomProject
+   5. ใช้คำสั่ง npm install หรือ yarn install
+   6. ติดตั้ง expo cli (หากยังไม่มี) npm install -g expo-cli
+
