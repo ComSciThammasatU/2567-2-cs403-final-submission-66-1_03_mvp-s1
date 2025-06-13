@@ -63,17 +63,28 @@ UdomProject
 # ความต้องการ
    ผู้ใช้งานจำเป็นต้องติดตั้ง ก่อนในการใช้งาน 
 
-   **Node.js**  
+  1.**Git**
 
-      ใช้สำหรับรันคำสั่งใช้งาน server
+   เพื่อใช้คำสั่งในการจัดการต่างๆ เกี่ยวกับ Git โดยสามารถ Download ได้ที่ [Download](https://git-scm.com/downloads)
+
+  2.**Node.js**  
+
+   ใช้สำหรับรันคำสั่งใช้งาน server
    
-   **Microsoft SQL Server Management Studio**
-      ใช้สำหรับจัดการ DataBase
+   3.**Microsoft SQL Server Management Studio**
    
-   **Visual Studio Code**
+   ใช้สำหรับจัดการ DataBase
    
-      ใช้สำหรับจัดการ Code
+   4.**Visual Studio Code**
    
-   **Expo** 
+   ใช้สำหรับจัดการ Code
    
-      ใช้สำหรับ ทดลองรันโปรแกรม ไม่จำเป็นหากติดตั้ง .APK
+   5.**Expo** 
+   
+   ใช้สำหรับ ทดลองรันโปรแกรม ไม่จำเป็นหากติดตั้ง .APK
+      
+# ขั้นตอนการติดตั้ง
+   1. สร้างโฟลเดอร์เพื่อ ใช้ในการ clone git
+   2. เปิด CommandPrompt ในโฟลเดอร์ที่เราสร้าง
+   3. ใช้คำสั่ง git clone <URL>
+   
