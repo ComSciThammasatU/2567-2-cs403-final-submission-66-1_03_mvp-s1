@@ -14,6 +14,41 @@
 
    
 Manual / Instructions for your projects starts here !
-# Topic 1
+# โครงสร้างไฟล์ของระบบ
+
+UdomProject
+        │   .gitignore
+        │   App.js
+        │   app.json
+        │   index.js
+        │   package.json
+        │   server.js
+        │   ssl.crt
+        │   ssl.csr
+        │   yarn.lock
+        │
+        └───assets
+            │   adaptive-icon.png
+            │   favicon.png
+            │   icon.png
+            │   splash-icon.png
+            │
+            ├───components
+            │       Amount.js
+            │       Price.js
+            │       RiceN.js
+            │       RiceName.js
+            │       RiceType.js
+            │       Sname.js
+            │       Unit.js
+            │
+            └───screen
+                    checkMember.js
+                    Header.js
+                    home.js
+                    insert.js
+                    Sell.js
+                    sellHT.js
+                    showTime.jsx
 # Topic 2 
 # Topic 3
